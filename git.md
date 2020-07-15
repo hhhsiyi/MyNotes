@@ -1,5 +1,7 @@
 ## git
 
+### n如何从hub 上拉一份代码下来，创建好本地的仓库，git clone就行！
+
 ### 1第一步，得先把字符集设置好， option -text-charXX-utf-8-重启gitbash
 
 ### 0如何使用git把本地的代码或者什么 东西上传到github上呢
@@ -59,7 +61,7 @@
   Please make sure you have the correct access rights
   and the repository exists.
   如果报错是这样的，是因为没有对应公钥，需要生成一个公钥才行呢
-    ~~~
+  ~~~
 
 ## 如果所有全部配置完成，下一次是如何提交的呢
 
