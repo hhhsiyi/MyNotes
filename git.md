@@ -105,3 +105,4 @@ git remote add origin https://github.com/baohaojie123/vue-learn.git
 git clone https://github.com/baohaojie123/vue-learn
 ~~~
 
+晚上啦，回忆一下git的命令，试着再提交一次嗷
