@@ -78,3 +78,30 @@ git commit
 git push
 
 我再改一下试试，行吧还是会乱码的
+
+
+
+~~~bash
+简单步骤：
+
+创建项目初始化
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/baohaojie123/vue-learn.git
+git push -u origin master
+已存在项目上传更新代码
+git remote add origin https://github.com/baohaojie123/vue-learn.git
+git push -u origin master
+已存在项目拉取代码
+git pull origin master
+
+未存在项目拉取代码
+
+git init
+
+git remote add origin https://github.com/baohaojie123/vue-learn.git
+
+git clone https://github.com/baohaojie123/vue-learn
+~~~
+
