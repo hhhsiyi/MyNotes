@@ -61,4 +61,10 @@
   如果报错是这样的，是因为没有对应公钥，需要生成一个公钥才行呢
     ~~~
 
-  
+## 如果所有全部配置完成，下一次是如何提交的呢
+
+1. 拖文件，检查git status
+2. 添加文件，git add --all或者git add 某一个文件，检查git status
+3. 提交文件，git commit -m “描述这次提交的概要”，检查git status
+4. 往仓库提交（push），git push -u grigin master，当然之后也可以简化流程，直接写git push也可以！
+5. 去github上面去检查！
